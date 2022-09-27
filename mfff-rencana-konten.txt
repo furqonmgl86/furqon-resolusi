@@ -3,9 +3,11 @@ RENCANA KONTEN MFFF
 -Javascript
   *ES6
   *Framework Javascript
-   #Angular
-   #React
+    #Vue
+    #React
 -PHP Framework
- *Laravel
+ *Laravel  
+-Struktur Data Dasar
 -Interview
 -Vlog
+-Python
