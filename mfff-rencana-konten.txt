@@ -5,6 +5,7 @@ RENCANA KONTEN MFFF
   *Framework Javascript
     #Vue
     #React
+    #Angular
 -PHP Framework
  *Laravel  
 -Struktur Data Dasar
